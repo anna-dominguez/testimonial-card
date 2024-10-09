@@ -1,6 +1,6 @@
 const App = () => (
-	<div className="w-full min-h-screen bg-gradient-to-br from-[#F9FAFB] to-[#D2D6DB] flex items-center justify-center">
-		<main className="bg-white max-w-[340px] p-6 rounded-lg flex flex-col gap-4 shadow">
+	<div className="w-full min-h-screen bg-gradient-to-br from-[#F9FAFB] to-[#D2D6DB] flex pt-[200px] justify-center">
+		<main className="bg-white max-w-[340px] p-6 rounded-lg flex flex-col gap-4 shadow h-fit">
 			<header className="flex gap-4">
 				<img
 					src="/img/profile-thumbnail.png"
