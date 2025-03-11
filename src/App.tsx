@@ -8,12 +8,12 @@ const App = () => (
 					className="w-12 h-12"
 				/>
 				<article className="flex flex-col gap-[1px]">
-					<h1 className="font-semibold text-lg text-neutral-900">Sarah Dole</h1>
-					<h2 className="text-neutral-600 text-sm">@sarahdole</h2>
+					<h1 className="text-lg font-semibold text-neutral-900">Sarah Dole</h1>
+					<h2 className="text-sm text-neutral-600">@sarahdole</h2>
 				</article>
 			</header>
 			<article>
-				<p className="text-neutral-600 text-base">
+				<p className="text-neutral-600 text-base leading-[26px]">
 					I've been searching for high-quality abstract images for my design
 					projects, and I'm thrilled to have found this platform. The variety
 					and depth of creativity are astounding!
